@@ -14,6 +14,7 @@ Open Source Model avaiable on HuggingFace:
 ### Projects in Data Science
 
 
-[global-flow-on-stackoverflow](https://saibo-creator.github.io/global-flow-on-stackoverflow/)
+[Knowledge Flow on Stack Overflow](https://saibo-creator.github.io/global-flow-on-stackoverflow/): An interactive data visualization project made with D3 framework. Data collected from Stack Overflow Annual Survery and Google BigQuery. 
 
-[stack-overflow-as-a-social-network](https://stack-overflow-as-a-social-network.github.io/)
+
+[Stackoverflow User Data Analysis](https://stack-overflow-as-a-social-network.github.io/):The project aims to study the characteristics of the user interaction on Stack Overflow.
