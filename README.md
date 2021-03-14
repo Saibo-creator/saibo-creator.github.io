@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/Saibo-creator/saibo-creator.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a second-year master student at [Ecole Polytechnique Fédérale de Lausanne(EPFL)](https://epfl.ch)🇨🇭). I'm studying EECS(EE as Major with CS as Minor) with a specialization in Machine Learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects in Machine Learning
+[An Enhanced MeanSum Method For Generating Hotel Multi-Review Summarizations](https://arxiv.org/abs/2012.03656)
 
-```markdown
-Syntax highlighted code block
+Open Source Model avaiable on HuggingFace:
+[LEGAL-ROBERTA](https://huggingface.co/saibo/legal-roberta-base)(4000+ downloads last month), is a domain-specific language representation model fine-tuned on large-scale legal corpora. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Projects in Data Science
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Saibo-creator/saibo-creator.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[global-flow-on-stackoverflow](https://saibo-creator.github.io/global-flow-on-stackoverflow/)
+[stack-overflow-as-a-social-network](https://stack-overflow-as-a-social-network.github.io/)
